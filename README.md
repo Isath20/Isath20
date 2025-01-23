@@ -1,12 +1,24 @@
-- 👋 Hi, I’m @Isath20
-- 👀 I’m interested in Web Designs, Web Development, and Software Developer ...
-- 🌱 I’m currently learning machine learning ...
-- 💞️ I’m looking to collaborate on team working...
-- 📫 How to reach me contant me(8248712749) ...
-- 😄 Pronouns: He...
-- ⚡ Fun fact: ...
+💫 About Me:
+Hello, World! 👋
 
-<!---
-Isath20/Isath20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👨‍🎓 I'm a Information Technology student passionate about coding and learning new technologies.
+
+Current Focus
+📚 Currently, I'm diving deep into Core Python to build a strong foundation in programming.
+
+What I'm Learning
+🔍 Exploring Python's fundamentals, including variables, data types, loops, and functions.
+
+Projects
+🚀 I'm excited to start working on python projects that showcase my skills and creativity.
+
+Get in Touch
+📫 You can reach me through mohamedisath201@gmail.com or connect with me https://www.linkedin.com/in/mohamed-isath-j-727775304
+
+Fun Fact
+🎉 Fun fact: I enjoy solving puzzles and brain teasers in my free time.
+
+Let's connect, learn, and code together!
+
+🌐 Socials:
+LinkedIn
